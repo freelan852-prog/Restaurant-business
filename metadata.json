@@ -1,0 +1,6 @@
+{
+  "name": "Parampara Rasoi - Premium Indian Dining & Café",
+  "description": "Authentic South Indian & Deccan culinary heritage, artisanal dosas, filter coffee, regional thalis, table reservations, and direct online ordering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
